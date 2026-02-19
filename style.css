@@ -1,0 +1,9 @@
+h1{
+    color: red;
+    text-decoration: line;
+    font-weight:bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-align: center;
+    margin-top: 300px;
+}
